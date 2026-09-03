@@ -1,7 +1,8 @@
+print("Herraientas de Desarrollo")
 print("REGISTRO ESTUDIANTE")
 
-nombre = input("ingrese su nombre:")
-edad = int(input("ingrese su edad:"))
+nombre = input("ingrese su nombre: ")
+edad = int(input("ingrese su edad: "))
 
 print("\nDATOS REGISTRADOS")
 print("Nombre: ", nombre)
